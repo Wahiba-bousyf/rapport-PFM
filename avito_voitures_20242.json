@@ -1,0 +1,5429 @@
+[
+  {
+    "titre": "Accent automatique",
+    "prix": "148 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Citroen c3",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Land Rover Range Rover Sport Diesel Automatique",
+    "prix": "1 280 000 DH",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voitures",
+    "prix": "NULL",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "200 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "BMW Série 5 Diesel Automatique 2019 à Rabat",
+    "prix": "310 000 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "VOLKSWAGEN JETTA Diesel Automatique à Casablanca",
+    "prix": "160 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "La nouvelle voiture a location. Martil",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Martil",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia sandero a louer",
+    "prix": "NULL",
+    "ville": "Aïn Diab, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "dacia logan. tout option",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW Série 5 Diesel Automatique 2021 à Casablanca",
+    "prix": "435 000 DH",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Aéroport Rabat Salé",
+    "prix": "179 DH",
+    "ville": "Toute la ville, Salé",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Hyundai santa Fe Diesel Automatique 2022 à Casa.",
+    "prix": "358 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Citroën aircross",
+    "prix": "NULL",
+    "ville": "Route Ain Chkaf, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen golf 8 Automatique 2023",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "megane 4 diesel",
+    "prix": "NULL",
+    "ville": "Hay Chmaou, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Jaguar E-Pace S Diesel Automatique 2018 Casablanca",
+    "prix": "290 000 DH",
+    "ville": "Maarif, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "super ford fiesta",
+    "prix": "185 DH",
+    "ville": "Toute la ville, Oualidia",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de Voitures Huren Cars - Dès 200 Dhs/jour",
+    "prix": "NULL",
+    "ville": "Centre Ville, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "location de voiture Clio 5",
+    "prix": "220 DH",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "HYUNDAI TUCSON Diesel Automatique à Casablanca.",
+    "prix": "315 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford Ecosport Diesel Manuelle 2018 à Casablanca",
+    "prix": "170 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Excellente Voiture Grise a louer casablanca",
+    "prix": "185 DH",
+    "ville": "Al Mostakbal, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "SEAT Arona Fr Diesel 09/2022 à Tanger",
+    "prix": "210 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "199 dh pour voiture de location",
+    "prix": "194 DH",
+    "ville": "Toute la ville, Sidi Bennour",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Renault Clio 29k/km Essence Automatique à Agadir",
+    "prix": "165 000 DH",
+    "ville": "Centre Ville, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "gray hyundai location de voiture",
+    "prix": "239 DH",
+    "ville": "Toute la ville, Chefchaouen",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de hyuandai accent",
+    "prix": "NULL",
+    "ville": "Aïn Diab, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "200 DH",
+    "ville": "Casablanca Finance City, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Citroën ami pour location",
+    "prix": "NULL",
+    "ville": "Oulfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "149 dh Meilleure voiture",
+    "prix": "147 DH",
+    "ville": "Azli, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Mercedes Classe A 200 à Kénitra",
+    "prix": "275 000 DH",
+    "ville": "Autre secteur, Kénitra",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture Noir Hyundai Tucson",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Tétouan",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Black Megane Location de voiture",
+    "prix": "239 DH",
+    "ville": "Toute la ville, Chefchaouen",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voitures a Casablanca",
+    "prix": "NULL",
+    "ville": "Aïn Diab, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia Duster",
+    "prix": "250 DH",
+    "ville": "Ain Mezouar, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "HYUNDAI ACCENT Diesel Automatique 2022.",
+    "prix": "205 000 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture rouge a louer a Marrakech",
+    "prix": "185 DH",
+    "ville": "Azzouzia, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Citroen C5 Aircross 2023 Diesel Automatique",
+    "prix": "275 000 DH",
+    "ville": "Maarif, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "meilleur Location de voiture",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voitures",
+    "prix": "NULL",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Mercedes-Benz Classe CLA Diesel Automatique 2025",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2025",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "KIFAL - VOLKSWAGEN Touareg",
+    "prix": "365 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Megane 3 coupé",
+    "prix": "75 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2009",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat 500 diesel",
+    "prix": "93 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "KIFAL - MERCEDES-BENZ GLC",
+    "prix": "340 000 DH",
+    "ville": "Autre secteur, الدار البيضاء",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel adam 1er main",
+    "prix": "103 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "KIFAL - AUDI Q8",
+    "prix": "720 000 DH",
+    "ville": "Autre secteur, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "KIFAL - MERCEDES-BENZ Classe C",
+    "prix": "440 000 DH",
+    "ville": "Autre secteur, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "KIFAL - TOYOTA Corolla Sport",
+    "prix": "270 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "Chery Tiggo Diesel Automatique 2023 à Casablanca",
+    "prix": "165 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "opel corsa",
+    "prix": "198 000 DH",
+    "ville": "Oulfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture de luxe rouge pour location",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "LOCATION DE VOITURE",
+    "prix": "250 DH",
+    "ville": "Achakar, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen Golf 7 GTD 2015 Dédouaner 2019",
+    "prix": "248 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi A3 Sline Essence 2019 Pack S3",
+    "prix": "295 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Volkswagen Polo GTI 2020 Dédouaner",
+    "prix": "255 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Dacia Logan",
+    "prix": "150 DH",
+    "ville": "Ain Mezouar, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "KIFAL - AUDI Q2",
+    "prix": "245 000 DH",
+    "ville": "Autre secteur, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "MAGNIFIQUE DACIA LOGAN A VENDRE",
+    "prix": "NULL",
+    "ville": "Toute la ville, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Clio 5 1.5 AUTHENTIC",
+    "prix": "169 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "bmw x5 1ère main comme neuf",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "jagual Black xf novembre 2019",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "KIFAL - VOLVO XC90",
+    "prix": "380 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "location de voiture à Marrakech aéroport",
+    "prix": "249 DH",
+    "ville": "Av Mohammed V, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia Sandero Diesel Manuelle 2024 à Casablanca",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "porsche.cayenne .boite auto",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Voitures de location à Rabat",
+    "prix": "249 DH",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Sept 2020 Tesla model 3 performance 78500 kms",
+    "prix": "445 000 DH",
+    "ville": "Bachkou, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Electrique"
+  },
+  {
+    "titre": "Hyundai Accent Diesel Manuelle 2020 à Casablanca",
+    "prix": "147 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "A200 2021 ded 2025",
+    "prix": "338 000 DH",
+    "ville": "Hay Charaf, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "ford Kuga",
+    "prix": "NULL",
+    "ville": "Centre Ville, Nador",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Golf8 RLine 2021",
+    "prix": "368 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Seat Arona fr",
+    "prix": "179 000 DH",
+    "ville": "Route Ain Chkaf, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi A5 Sportback Diesel Automatique 2022",
+    "prix": "NULL",
+    "ville": "Toute la ville, Berrechid",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes class E 220",
+    "prix": "157 000 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Jeep grand cherokee",
+    "prix": "NULL",
+    "ville": "Route Ain Chkaf, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "RANGE ROVER EVOQUE DYNAMIQUE",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de véhicule",
+    "prix": "250 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Mercedes Benz E coupe pack amg",
+    "prix": "470 000 DH",
+    "ville": "Californie, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 2008 Gt-Line Full option 1ére main 9-2024",
+    "prix": "NULL",
+    "ville": "Sonaba, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "PROMOTION location ford fiesta voiture pour vous",
+    "prix": "185 DH",
+    "ville": "Toute la ville, El Kelâa des Sraghna",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Seat Ibiza Fr original Diesel manuel particulier",
+    "prix": "189 000 DH",
+    "ville": "Abdelmoumen, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Porsche Cayenne S importer neuf",
+    "prix": "670 000 DH",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Range sport hse diwana",
+    "prix": "115 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Logan model 2022 diesel",
+    "prix": "NULL",
+    "ville": "Hay Al Massar, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford Focus Sport Diesel 1er main 2014 à Agadir",
+    "prix": "NULL",
+    "ville": "El Houda, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location des meilleure Voiture a Martil",
+    "prix": "239 DH",
+    "ville": "Toute la ville, Martil",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 208 Diesel Manuelle 2021 à Fès",
+    "prix": "145 000 DH",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat Tipo Essence Automatique 2023 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Mini Cooper Essence Automatique 2025 à Casablanca",
+    "prix": "315 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2025",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Belle Voiture grise pour location",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "PROMOTION meilleure location clio 5 voiture",
+    "prix": "185 DH",
+    "ville": "Toute la ville, Essaouira",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen T-ROC RLine 2018",
+    "prix": "295 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Sandero Diesel Manuelle 2024 à Casablanca",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Jeep Renegade Diesel Automatique 2019 à Agadir",
+    "prix": "NULL",
+    "ville": "El Houda, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "F500 1.2 DolceVita",
+    "prix": "157 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Renault Clio Essence Manuelle 2007 à Casablanca",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2007",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Peugeot 208 Diesel Manuelle 2020 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Tiguan Diesel Automatique 2017",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Megane 4 techno plus auto 1er main unique ww",
+    "prix": "239 500 DH",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "hyundai i 20",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes Classe C220d très bon état",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford fiesta diesel",
+    "prix": "100 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "FORD MIUSTANG COLLECTION",
+    "prix": "NULL",
+    "ville": "Hivernage, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "1998",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "200 DH",
+    "ville": "Agdal, Rabat",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen Golf 6 pack GTD",
+    "prix": "128 000 DH",
+    "ville": "C.I.L, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai Tucson Diesel Automatique 2023 à Deroua",
+    "prix": "339 000 DH",
+    "ville": "Toute la ville, Deroua",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe E220 Avantgarde 2021",
+    "prix": "405 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "meilleure voiture pour vous à Martil",
+    "prix": "149 DH",
+    "ville": "Toute la ville, Echemmaia",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Ford focus",
+    "prix": "126 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture Tucson Pour location a Tétouane",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Tétouan",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 208 exclusive",
+    "prix": "125 000 DH",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volvo XC90 Diesel Automatique 2016 à Tanger",
+    "prix": "285 000 DH",
+    "ville": "Centre, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture marrakech",
+    "prix": "320 DH",
+    "ville": "Route de Casablanca, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia Logan",
+    "prix": "139 000 DH",
+    "ville": "Toute la ville, Khouribga",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "range rover sport importé neuf à Casablanca",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes c 220",
+    "prix": "375 000 DH",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 208 active",
+    "prix": "142 000 DH",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel grandland",
+    "prix": "NULL",
+    "ville": "Massira 1, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Accent 1.5 U2 VGT 115 BVA Attractive",
+    "prix": "179 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Jetta Diesel Automatique 2016 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi Q5 sportback Quattro",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW E30 Manuelle 1987 à Fès état collection",
+    "prix": "98 999 DH",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "1987",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Mercedes benz",
+    "prix": "42 000 DH",
+    "ville": "Centre ville, Essaouira",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "1996",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Golf 5 Diesel Manuelle 2006 à Marrakech",
+    "prix": "75 000 DH",
+    "ville": "Centre Ville, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2006",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi Q3 modèle 2016 w à Maroc kilométrage 190 000",
+    "prix": "19 500 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat 500 Essence Automatique 2016 à Agadir",
+    "prix": "NULL",
+    "ville": "Av Mokawama, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Touareg diesel",
+    "prix": "135 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "voiture",
+    "prix": "NULL",
+    "ville": "Toute la ville, Ouazzane",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2003",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Peugeot 508 Diesel Manuelle 2016 à Salé",
+    "prix": "NULL",
+    "ville": "Hay Salam, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford Focus Diesel Automatique 2022 à Marrakech",
+    "prix": "218 000 DH",
+    "ville": "Targa, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture a Fès",
+    "prix": "230 DH",
+    "ville": "Ain Haroun, Fès",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia Sandero Stepway",
+    "prix": "121 500 DH",
+    "ville": "Toute la ville, Jorf",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat 500 Dolcevita 18 000 km",
+    "prix": "158 000 DH",
+    "ville": "C.I.L, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "jeep cherokee",
+    "prix": "NULL",
+    "ville": "Autre secteur, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Promotion  Citreon et ford",
+    "prix": "149 DH",
+    "ville": "Toute la ville, Youssoufia",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de clio 5 a Casablanca",
+    "prix": "NULL",
+    "ville": "Aïn Diab, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "OPEL ASTRA",
+    "prix": "175 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Jeep Wrangler Diesel Manuelle 2018 à Casablanca",
+    "prix": "260 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Tucson 2018 Full option Neuve",
+    "prix": "247 000 DH",
+    "ville": "Centre, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Kadhafi Automatique",
+    "prix": "195 000 DH",
+    "ville": "Toute la ville, Béni Mellal",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Skoda Octavia BVA",
+    "prix": "205 000 DH",
+    "ville": "Al Maghrib Al Arabi, Kénitra",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "golf.6. décapotable.mdl.2013.dwn.2023",
+    "prix": "NULL",
+    "ville": "Toute la ville, Berrechid",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "peugeot 308",
+    "prix": "290 000 DH",
+    "ville": "Achakar, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai ix 35 Diesel Manuelle 2015 à Fès",
+    "prix": "153 000 DH",
+    "ville": "Route d'Immouzere, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Carens Diesel Automatique 2024 à Salé",
+    "prix": "235 000 DH",
+    "ville": "Bab Al Bahr, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia dokker",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de Megane",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "VOITURE DE LOCATION",
+    "prix": "185 DH",
+    "ville": "Bd Moulay Abdellah, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 208 Diesel Manuelle 2019 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Touareg R5 manuel ded 2014",
+    "prix": "95 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "voiture",
+    "prix": "110 000 DH",
+    "ville": "El Houda, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Seat Ateca Diesel Automatique 2019 à Casablanca",
+    "prix": "225 000 DH",
+    "ville": "Californie, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz 220 Diesel Automatique 2022 à Fès",
+    "prix": "NULL",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "je mets en vente Audi A4",
+    "prix": "138 000 DH",
+    "ville": "Centre Ville, Mohammedia",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Dacia Sandero Streetway 2024",
+    "prix": "245 DH",
+    "ville": "Maarif, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Voiture l'Elysée en bleu",
+    "prix": "185 DH",
+    "ville": "Afaq, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "NISSAN QASHQAI Diesel Manual 2017 à Rabat.",
+    "prix": "198 000 DH",
+    "ville": "Autre secteur, Kénitra",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz 300 Diesel Automatique 2020 à Fès",
+    "prix": "NULL",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "DS4 trocadero plus 6cv automatique 1er main",
+    "prix": "305 000 DH",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Skoda Karoq Diesel Automatique 2019 à Marrakech",
+    "prix": "NULL",
+    "ville": "Massira 2, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "PROMOTION LOCATION CITROEN FORD",
+    "prix": "149 DH",
+    "ville": "Toute la ville, Youssoufia",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Audi Q8 Diesel Automatique 2019 à Casablanca",
+    "prix": "700 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "ford fiesta",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Tiguan RLine 2022",
+    "prix": "485 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe C 220 d",
+    "prix": "455 000 DH",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "VOLVO XC90 Diesel Automatique 2016 à Mohemmadia.",
+    "prix": "289 000 DH",
+    "ville": "Autre secteur, Mohammedia",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voitures a casa",
+    "prix": "170 DH",
+    "ville": "Centre Ville, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Citroen C4 Shine Diesel Automatique 2022",
+    "prix": "225 000 DH",
+    "ville": "Wilaya, Tétouan",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "PEUGEOT 208 (Active Pack) 11/2022 à Tanger",
+    "prix": "153 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "dacia sandero stepway 2018",
+    "prix": "125 000 DH",
+    "ville": "Centre Ville, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Touareg pak élégance New modèle 1er main",
+    "prix": "349 000 DH",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat tipo essence",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Locations voiture pas cher",
+    "prix": "250 DH",
+    "ville": "Belvédère, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Mercedes-Benz Classe GLE Diesel Automatique 2017",
+    "prix": "NULL",
+    "ville": "Hay Al Massar, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 208",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "louer Clio 5 Sur Marrakech",
+    "prix": "NULL",
+    "ville": "Hivernage, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture dès 4500 DHS/mois",
+    "prix": "150 DH",
+    "ville": "Centre Ville, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Renault Location de voiture a Tanger",
+    "prix": "239 DH",
+    "ville": "Autre secteur, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen Touareg Automatique 2016 à Agadir",
+    "prix": "NULL",
+    "ville": "El Houda, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel Astra excellent eta",
+    "prix": "NULL",
+    "ville": "Massira 2, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Carens Diesel Manuelle 2017 à Casablanca",
+    "prix": "125 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mahindra KUV KUV diesel 5cv 1er main 2000km",
+    "prix": "99 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel Astra GS LINE BVA Diesel Automatique 2024",
+    "prix": "268 000 DH",
+    "ville": "Autre secteur, Oujda",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture de location a bas prix",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "seat leon black line",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Caddy Diesel Manuelle 2020 à Casablanca",
+    "prix": "180 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Jeep Wrangler Diesel Automatique 2016 à Marrakech",
+    "prix": "NULL",
+    "ville": "Hay Al Massar, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia duster pour location",
+    "prix": "249 DH",
+    "ville": "Toute la ville, Ksar el-Kebir",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "PORSCHE PANAMERA TURBO PDK 4.8 V8 500CH",
+    "prix": "250 000 DH",
+    "ville": "Californie, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Mercedes-Benz 300 Diesel Au hybride 2020 à Fès",
+    "prix": "NULL",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Maserati Levante Diesel Automatique 2016",
+    "prix": "360 000 DH",
+    "ville": "Centre Ville, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Meilleure Clio 5",
+    "prix": "149 DH",
+    "ville": "Annakhil, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Maserati Levante Q4",
+    "prix": "397 000 DH",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Martil",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen T-Roc",
+    "prix": "500 DH",
+    "ville": "Ain Mezouar, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Skoda Octavia Diesel Automatique 2023 à Salé",
+    "prix": "345 000 DH",
+    "ville": "Bettana, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture clio 5",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture Dacia Sandero 2024",
+    "prix": "250 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia Duster Diesel Automatique 2024 à Fès",
+    "prix": "NULL",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "250 dh سياره للكراء بطنجه",
+    "prix": "247 DH",
+    "ville": "Al Mandar Al Jamil, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Jeep Grand Cherokee Diesel full option",
+    "prix": "289 000 DH",
+    "ville": "Route d'Immouzere, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Clio 5 location de voiture",
+    "prix": "NULL",
+    "ville": "Maarif, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen Touareg Extréme 1ére main Fin 2023",
+    "prix": "NULL",
+    "ville": "Av des Far, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de Voiture Citroen C3",
+    "prix": "185 DH",
+    "ville": "Annakhil, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "BMW SERIE 318 DIESEL",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Skoda Karos et kia seltos",
+    "prix": "330 DH",
+    "ville": "Les Ambassadeurs, Rabat",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "location de voiture à l'aéroport casa sans caution",
+    "prix": "220 DH",
+    "ville": "Abdelmoumen, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture luxe modèle DACIA DUSTER",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Fnideq",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "voiture de vacance Hyundai Grand i10",
+    "prix": "239 DH",
+    "ville": "Toute la ville, Mdiq",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Mercedes-Benz AMG GLE 350de Coupe Hybride",
+    "prix": "NULL",
+    "ville": "Alsace Lorraine, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "location de voiture a Fnideq",
+    "prix": "450 DH",
+    "ville": "Toute la ville, Fnideq",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Renault Clio 4",
+    "prix": "119 000 DH",
+    "ville": "Yacoub El Mansour, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "peugeot 2008",
+    "prix": "225 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "bmw serie 3",
+    "prix": "320 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "PORSCHE CAYENNE V6 DIESEL",
+    "prix": "NULL",
+    "ville": "Alsace Lorraine, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "alfa-romeo giulietta",
+    "prix": "143 000 DH",
+    "ville": "Oulfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture dacia duster",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Hyundai Tucson Location de voiture",
+    "prix": "239 DH",
+    "ville": "Toute la ville, Chefchaouen",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Fiat 500 Essence Automatique 2021 à Casablanca",
+    "prix": "145 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Fiat Abarth 595 Turismo Essence Automatique 2014",
+    "prix": "145 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Land Rover Range Rover Evoque Diesel Automatique",
+    "prix": "285 000 DH",
+    "ville": "Centre Ville, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Citroen C-Crosser Diesel Automatique 2022",
+    "prix": "258 000 DH",
+    "ville": "Autre secteur, Kénitra",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford focus trnd plus 2017",
+    "prix": "148 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "renault",
+    "prix": "57 000 DH",
+    "ville": "Hamria, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Cupra Formentor E-Hybrid Électrique Essence 2021",
+    "prix": "438 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Voiture Tucson Blanche",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia sandero stepway diesel",
+    "prix": "119 000 DH",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford Ka 2014 DIESEL",
+    "prix": "77 000 DH",
+    "ville": "Autre secteur, Oujda",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai i10",
+    "prix": "169 DH",
+    "ville": "Ain Mezouar, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 3008 GT Line Diesel 1ère main Automatique",
+    "prix": "NULL",
+    "ville": "Route d'Immouzere, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Logan laureat km 56000",
+    "prix": "117 000 DH",
+    "ville": "Jerifat, Safi",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Nissan Quashqai 2020",
+    "prix": "230 000 DH",
+    "ville": "Toute la ville, Béni Mellal",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Hyundai Grand i10 à larache",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Larache",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Golf 6 propre",
+    "prix": "79 000 DH",
+    "ville": "Toute la ville, Guercif",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Peugeot 407",
+    "prix": "NULL",
+    "ville": "Sidi Bernoussi, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2006",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai Accent 2022",
+    "prix": "NULL",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Arkana 2023",
+    "prix": "NULL",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "Mercedes E 220 Coupée",
+    "prix": "NULL",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Autre voiture",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel Astra Diesel",
+    "prix": "117 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volvo XC60 Diesel Automatique 2021 à Rabat",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "mini cooper",
+    "prix": "137 000 DH",
+    "ville": "Wilaya, Tétouan",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "voiture à vendre",
+    "prix": "65 000 DH",
+    "ville": "Toute la ville, Béni Mellal",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2008",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Renault Megane Sedan 1.5 Intens",
+    "prix": "209 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Jeep wrangler Sahara 2019",
+    "prix": "NULL",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "belle  Citroën  c- ellyse",
+    "prix": "140 000 DH",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fond fiesta titanium 2018",
+    "prix": "NULL",
+    "ville": "Hassan, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen caddy",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Talisman Diesel Automatique 2017 à Oujda",
+    "prix": "179 000 DH",
+    "ville": "Autre secteur, Oujda",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel Astra K 2020 – Excellent état à Tanger",
+    "prix": "170 000 DH",
+    "ville": "Jbel Kbir, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Clio 5 tt option",
+    "prix": "139 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Citroën C-Elysee 2024",
+    "prix": "250 DH",
+    "ville": "Maarif, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Nissan micra",
+    "prix": "125 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Bmw série 5",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Duster 1.5 Confort",
+    "prix": "194 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe CLA Diesel Automatique 2013",
+    "prix": "230 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "MERCEDES C220 M2014 D2019",
+    "prix": "NULL",
+    "ville": "Zitoune, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Bentley Bentayga",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "belle  Hyundai  i20 diesel",
+    "prix": "118 000 DH",
+    "ville": "Hay Mohammadi, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai sonata hybride",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "Dacia Logan diesel prestige 2014",
+    "prix": "89 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de tout genre de voiture",
+    "prix": "NULL",
+    "ville": "Mers Sultan, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Renault Clio Diesel Manuelle 2022 à Fès",
+    "prix": "162 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Porsche Macan Diesel Automatique 2016 à Casablanca",
+    "prix": "NULL",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "DACIA logan diesel",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Logane 2022",
+    "prix": "NULL",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Clio 4 Diesel Automatique 2021 à Rabat",
+    "prix": "152 000 DH",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi A3 Diesel Manuelle 2013 à Meknès",
+    "prix": "NULL",
+    "ville": "Hamria, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Kangoo Diesel Manuelle 2012 à Fès",
+    "prix": "94 000 DH",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai i20 1.4 Seductive",
+    "prix": "198 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "BMW 520 d",
+    "prix": "NULL",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Captur 1.5 Equilibre",
+    "prix": "244 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 208 modèle 2023",
+    "prix": "NULL",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai tucson 2023",
+    "prix": "NULL",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault  Clio  Diesel  Manuel  2020 à Agadir",
+    "prix": "NULL",
+    "ville": "Hay Zaytoun, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe GLE Coupé Diesel 2021",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi A4 Diesel Automatique 2020 à Rabat",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Aéroport Marrakech",
+    "prix": "185 DH",
+    "ville": "Agdal, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 3008 2.0 Allure",
+    "prix": "273 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel Corsa GS Ligne plus Diesel 2022 à Fès",
+    "prix": "170 000 DH",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Picanto 1.0 Lifestyle",
+    "prix": "117 000 DH",
+    "ville": "Fes Jdid, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Land Rover Range Rover Evoque Daynamic 2018",
+    "prix": "305 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford kuga modèle 2013",
+    "prix": "NULL",
+    "ville": "Agdal, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Touran Diesel Automatique 2016",
+    "prix": "238 000 DH",
+    "ville": "Drissia, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location voiture neuve AEROPORT FÈS SAÎS",
+    "prix": "300 DH",
+    "ville": "Route d'Aeroport, Fès",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "location de voiture aéroport Marrakech",
+    "prix": "249 DH",
+    "ville": "Centre Ville, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "hyaundai accent automatique",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi A6 4.0 diesel automatique",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "location de voiture Aéroport Mohamed 5 Casa",
+    "prix": "199 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "grande voiture pour les familles",
+    "prix": "245 DH",
+    "ville": "Centre ville, Tétouan",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "1ÈRE MAIN C 220D BLUETEC IMPORTENEUF 90000KM",
+    "prix": "297 000 DH",
+    "ville": "Californie, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe C Diesel Automatique 2019",
+    "prix": "270 000 DH",
+    "ville": "Casablanca Finance City, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Audi A1 2011 diesel",
+    "prix": "108 000 DH",
+    "ville": "Mers Sultan, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2011",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Volkswagen Troc BVA",
+    "prix": "550 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Jeep renegade 2020",
+    "prix": "178 000 DH",
+    "ville": "Californie, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Touareg Diesel Automatique 2017",
+    "prix": "199 999 DH",
+    "ville": "Sidi Maarouf, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "location de voiture marrakech",
+    "prix": "199 DH",
+    "ville": "Hivernage, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Opel Mokka Diesel manuelle 2023 à Casablanca",
+    "prix": "240 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Citroen Berlingo Diesel Manuelle 2019 à Salé",
+    "prix": "NULL",
+    "ville": "Lakhmis, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "location de voiture marrakech",
+    "prix": "230 DH",
+    "ville": "Ancienne Médina, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Suzuki grand Vitara",
+    "prix": "72 000 DH",
+    "ville": "Yacoub El Mansour, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Location voiture   Renault clio",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Martil",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen golf 7,5 diesel automatique",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "PEUGEOT 208 ACTIVE",
+    "prix": "148 000 DH",
+    "ville": "Hay Nahda, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 208 a louer",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Renault twingo t options",
+    "prix": "58 000 DH",
+    "ville": "Sidi Bernoussi, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2011",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Dacia dokker",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Chevrolet captiva Diesel automatique",
+    "prix": "79 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2008",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe GLC Diesel Automatique 2021",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen ID4 Crozz full option NEW",
+    "prix": "NULL",
+    "ville": "Oulfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2025",
+    "boite": "Automatique",
+    "marque": "Electrique"
+  },
+  {
+    "titre": "Renault trafic w",
+    "prix": "190 000 DH",
+    "ville": "Sidi Bernoussi, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Clio Diesel Manuelle 2019 à Fès",
+    "prix": "113 000 DH",
+    "ville": "Route d'Immouzere, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel Astra Diesel",
+    "prix": "117 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Clio 4",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Dokker Diesel",
+    "prix": "133 000 DH",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Offre exclusive pour votre location de voiture",
+    "prix": "189 DH",
+    "ville": "Aïn Borja, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "dacia duster",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Tesla model 3",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Electrique"
+  },
+  {
+    "titre": "Fiat Fiorino Diesel Manuelle 2021 à Marrakech",
+    "prix": "NULL",
+    "ville": "Massira 1, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen tiguan",
+    "prix": "180 000 DH",
+    "ville": "Maarif, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture Fiat 500",
+    "prix": "NULL",
+    "ville": "Hay fath, Oujda",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Bienvenue toute pour location de voiture à taza",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Taza",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Kia Picanto Essence Manuelle 2021 à Marrakech",
+    "prix": "NULL",
+    "ville": "Azli, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Clio 2025 diesel",
+    "prix": "299 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Classe A pack AMG tt option sur berrchid",
+    "prix": "145 000 DH",
+    "ville": "Al Madina Aljadida, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Range Rover évoque dynamique",
+    "prix": "NULL",
+    "ville": "Agdal, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "ford ka 2011",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2011",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "1ÈRE MAIN  C 220D AMG LINE DESIGNO 45.000KM",
+    "prix": "470 000 DH",
+    "ville": "Californie, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe C Diesel Automatique 2019",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Land Rover Range Rover Sport Diesel Automatique.",
+    "prix": "670 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Kadjar Diesel Automatique 2019 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW Série 2 Diesel Automatique 2020 à Rabat",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voitures",
+    "prix": "NULL",
+    "ville": "Aïn Diab, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen Touareg manuel ded 2014",
+    "prix": "95 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 3008 Diesel Automatique 2020 à Rabat",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Picanto Essence  Manuelle 2022 à Agadir",
+    "prix": "NULL",
+    "ville": "Hay Zaytoun, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "location de voiture a marrakech aéroport",
+    "prix": "249 DH",
+    "ville": "Hivernage, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "LOCATION DE VOITURE",
+    "prix": "250 DH",
+    "ville": "Branes 1, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "mercedes-benz classe a",
+    "prix": "210 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "fiat  doblo",
+    "prix": "96 000 DH",
+    "ville": "Hay Mohammadi, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Skoda Superb L&K",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 208 pour location",
+    "prix": "NULL",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Hyundai Bayon Hybride Automatique 2023",
+    "prix": "210 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "Ford Fiesta Essence 2017",
+    "prix": "NULL",
+    "ville": "Centre Ville, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Renault express 2025",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2025",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de Dacia logan",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia Duster Diesel Automatique 2022 à Marrakech",
+    "prix": "NULL",
+    "ville": "Massira 1, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe c 220 automatique ded 2010",
+    "prix": "99 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2005",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kango 2013 à Casablanca",
+    "prix": "78 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "FIAT 500X Diesel Manuelle à Casablanca.",
+    "prix": "145 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai I20",
+    "prix": "200 DH",
+    "ville": "Ain Mezouar, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Hyundai ix35 Diesel Manuelle 2012 à Rabat",
+    "prix": "128 000 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "belle peugeot 301",
+    "prix": "128 000 DH",
+    "ville": "Hay Mohammadi, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "PROPRE MINI COOPER JCW 231 HP",
+    "prix": "215 000 DH",
+    "ville": "Californie, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Dacia Sandero Stepway Diesel Manuelle 2018 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "PEUGEOT 208 Manuelle Diesel à Casablanca.",
+    "prix": "157 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Duster Diesel Manuelle 2019 à Oujda",
+    "prix": "159 000 DH",
+    "ville": "Autre secteur, Oujda",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Passat Limousin dédouane",
+    "prix": "182 000 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Hyundai Tucson",
+    "prix": "399 DH",
+    "ville": "Al Madina Aljadida, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "location de voiture Dacia Logan",
+    "prix": "249 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Tarifs imbattables pour votre location de voiture",
+    "prix": "210 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "vente de voiture occasion",
+    "prix": "38 000 DH",
+    "ville": "Mesnana, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Peugeot 508 Diesel Automatique 2019 à Rabat",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "LIMITED JEEP RENEGADE 2.0D  4x4",
+    "prix": "205 000 DH",
+    "ville": "Californie, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat 500 état neuf",
+    "prix": "112 000 DH",
+    "ville": "Abi Ragrag, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "ford focus ghia",
+    "prix": "92 000 DH",
+    "ville": "Cité Militaire, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2011",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Clio 5 a louer",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "1ÈRE MAIN VOLVO S90 D5 INSCRIPTION 4WD",
+    "prix": "2 750 000 DH",
+    "ville": "Californie, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Sportage Diesel BVA 09 2010 à Dar Bouazza",
+    "prix": "140 000 DH",
+    "ville": "Toute la ville, Dar Bouazza",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai Accent 2021",
+    "prix": "153 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Skoda Kodiaq Diesel Automatique 2019 à Marrakech",
+    "prix": "270 000 DH",
+    "ville": "Guéliz, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture luxe à ville de Mdiq",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Mdiq",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "golf 6 plus full option excellent état bon prix",
+    "prix": "107 000 DH",
+    "ville": "Centre, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "RENAULT CLIO Diesel Automatique 2021",
+    "prix": "158 000 DH",
+    "ville": "Autre secteur, Mohammedia",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Renault clio 4 diesel",
+    "prix": "250 DH",
+    "ville": "Centre Ville, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "BMW Série 1 -2017 -Boîte auto",
+    "prix": "210 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "250 DH",
+    "ville": "Autre secteur, Oujda",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "volkswagen tiguan",
+    "prix": "580 000 DH",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Bienvenue tous pour location de voiture à Ouajda",
+    "prix": "199 DH",
+    "ville": "Centre Ville, Oujda",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture aéroport Mohammed 5",
+    "prix": "220 DH",
+    "ville": "Moulay Youssef, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "BMW Serie 1  2016 Automatique à sale el jadida",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Bienvenue a votre Location de voiture a Casablanca",
+    "prix": "199 DH",
+    "ville": "Aïn Diab, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "BMW Série 5 Diesel Automatique 2019 à Rabat",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "belle voiture",
+    "prix": "80 000 DH",
+    "ville": "Yacoub El Mansour, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2009",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes Classe E Diesel Automatique",
+    "prix": "NULL",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2025",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Belle voiture Hyundai de location",
+    "prix": "239 DH",
+    "ville": "Toute la ville, Mdiq",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Série 5 première main 1-و",
+    "prix": "424 000 DH",
+    "ville": "Souissi, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Glf2 mod 92 douane 2003",
+    "prix": "50 000 DH",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "1992",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "kia picanto",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2025",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 301 modèle 2022",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "GOLF 7 USA Highilne",
+    "prix": "197 000 DH",
+    "ville": "Harhoura, Temara",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Skoda Octavia 2021",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Touareg Diesel Automatique 2015",
+    "prix": "150 000 DH",
+    "ville": "Maarif, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW Série 5 Diesel Automatique 2017 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW 520 Luxury diesel 2020 rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe gle 400 dièsel",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat 500 automatique modèle 2022 à rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Location de voiture aéroport fes saiss",
+    "prix": "199 DH",
+    "ville": "Route d'Aeroport, Fès",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Dacia Sandero Diesel Manuelle 2020 à Fès",
+    "prix": "129 000 DH",
+    "ville": "Route de Sefrou, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia dokker Van Climatisation",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi Q5 Diesel Automatique 2021 S Line",
+    "prix": "660 000 DH",
+    "ville": "Hay El Qods, Oujda",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Jaguar E-Pace Diesel Automatique 2019 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Nissan Navara pick up  double cabine",
+    "prix": "160 000 DH",
+    "ville": "Centre Ville, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 3008 GT Diesel Automatique 2023 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe Cla 220D modèle 2023 dédouané 2025",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de Dacia sandero",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Hyuandai santafee a louer",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot Expert",
+    "prix": "204 000 DH",
+    "ville": "Centre, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Duster Diesel Manuelle 2020 à Casablanca",
+    "prix": "NULL",
+    "ville": "Aïn Borja, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Arteon Diesel Automatique 2020",
+    "prix": "245 000 DH",
+    "ville": "Centre ville, Tétouan",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW Serie1-116d Pack M 2020",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe C Diesel Automatique 2017",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Clio 5 diesel location de voiture",
+    "prix": "250 DH",
+    "ville": "Aïn Chock, الدار البيضاء",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "dacia logan",
+    "prix": "NULL",
+    "ville": "Ben M'sick, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Skoda Octavia diesel  Automatique 2024 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "LOCATION DE VOITURE A MA",
+    "prix": "149 DH",
+    "ville": "Amerchich, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volvo Xc90 Diesel",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Golf 7 Diesel Manuelle 2013 à Meknès",
+    "prix": "145 000 DH",
+    "ville": "El Bassatine, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Toyota RAV 4 Diesel Automatique 2010 à Salé",
+    "prix": "136 000 DH",
+    "ville": "Hay Salam, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Autre voiture",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location voiture de lux fes aéroport",
+    "prix": "999 DH",
+    "ville": "Route d'Aeroport, Fès",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Range sport autobiographie",
+    "prix": "NULL",
+    "ville": "Belvédère, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Opel Insignia Diesel Manuelle 2020 à Casablanca",
+    "prix": "NULL",
+    "ville": "Aïn Borja, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 301",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia dokker à Casablanca",
+    "prix": "146 000 DH",
+    "ville": "Sidi Moumen, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Citroën C3 2020 Diesel à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "voiture",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Mercedes-Benz Classe A Diesel Automatique 2020",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "fored focus sport",
+    "prix": "NULL",
+    "ville": "Ben M'sick, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Toyota Yaris",
+    "prix": "200 DH",
+    "ville": "Ain Mezouar, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Nissan Juke diesel 2018 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "santafe automatique reprise",
+    "prix": "113 000 DH",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2010",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Express 2023",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "voiture",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Skoda superb Diesel",
+    "prix": "119 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe c 220 automatique ded 2010",
+    "prix": "99 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2005",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Toyota Yaris Hybride Automatique 2016 à Casablanca",
+    "prix": "110 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "Troc pour location a l’aéroport Mohammed 5",
+    "prix": "NULL",
+    "ville": "Casablanca Finance City, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Opel Mokka Diesel",
+    "prix": "NULL",
+    "ville": "Sidi Maarouf, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Logan Essence Automatique 2022 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "bmw Série 520 G30 modèle 2018 bon état",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture clio 5 bleu",
+    "prix": "239 DH",
+    "ville": "Toute la ville, Chefchaouen",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location voiture 7 places aeroport Fès  saïs",
+    "prix": "450 DH",
+    "ville": "Route d'Aeroport, Fès",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Renault Kangoo Diesel Manuelle 2021 à Casablanca",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz C200 Diesel Automatique 2016",
+    "prix": "295 000 DH",
+    "ville": "Centre Ville, Mohammedia",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location voiture fes aeroport",
+    "prix": "250 DH",
+    "ville": "Route d'Aeroport, Fès",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "super voiture 199 dh à Tétouan",
+    "prix": "199 DH",
+    "ville": "Tamouda, Tétouan",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "golf 7 .5 GTD",
+    "prix": "293 000 DH",
+    "ville": "El Bassatine, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes   GLC 2017 Importé neuve  Sala al Jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Bmw X3Diesel 2020 à Rabat",
+    "prix": "NULL",
+    "ville": "Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Kangoo Diesel 2021 à Casablanca",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 308 GT2023à Rabat",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Porsche Cayenne Diesel Automatique tren bon etat",
+    "prix": "190 000 DH",
+    "ville": "Aïn Borja, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi Q5  quattro diesel 2020 à Rabat",
+    "prix": "NULL",
+    "ville": "Massira, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi RS3 Importée neuve",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "BMW Série 5 2019 à sale el jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes GLC Boîtes AUTOMATIQUE",
+    "prix": "NULL",
+    "ville": "Aïn Borja, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Carens comme neuve 6 places",
+    "prix": "210 000 DH",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "mercedes classe A 220d Coupé AMG line Plus",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voitures à Marrakech",
+    "prix": "250 DH",
+    "ville": "Guéliz, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture aéroport Rabat Salé",
+    "prix": "199 DH",
+    "ville": "Centre Ville, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Autre voiture",
+    "prix": "NULL",
+    "ville": "Autre secteur, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Tiguan Diesel Manuelle 2017 à Rabat",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe c 220d 2018 Importé neuve  à Rabat",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz GLC 2021 dédouaner 2024",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Electrique"
+  },
+  {
+    "titre": "Dacia Duster Diesel Automatique 2020 à Casablanca",
+    "prix": "162 000 DH",
+    "ville": "Sidi Moumen, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 2008 - 2020 Sale el jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "jeep renegade limitéd automatique",
+    "prix": "215 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "voiture de location pour groupe de 7 pesonne",
+    "prix": "450 DH",
+    "ville": "Amerchich, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture Aéroport Mohamed 5 Casablanca",
+    "prix": "170 DH",
+    "ville": "Sidi Bernoussi, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "bmw serie 7",
+    "prix": "NULL",
+    "ville": "Ben M'sick, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Chevrolet spark automatique ded 2021",
+    "prix": "88 000 DH",
+    "ville": "Sidi Maarouf, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "LOCATION DE VOITURE A TANGER ET TETOUAN",
+    "prix": "249 DH",
+    "ville": "Achakar, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Land rover Freelander 2",
+    "prix": "85 000 DH",
+    "ville": "Yacoub El Mansour, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2007",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de Citroën ami",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Mercedes-benz c300 AMG 🥇 hybrid diesel",
+    "prix": "465 000 DH",
+    "ville": "Bele Vue, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "santafee automatique reprise",
+    "prix": "108 000 DH",
+    "ville": "Hay el Fath, الرباط",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2008",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Citroën C Elysée a vendre",
+    "prix": "118 000 DH",
+    "ville": "Oued Fès, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "jaguar XF automatique",
+    "prix": "NULL",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peougot 208 pour location",
+    "prix": "NULL",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Renault Megane 4 Diesel Automatique 2021",
+    "prix": "NULL",
+    "ville": "Aïn Borja, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe e 220 2015",
+    "prix": "215 000 DH",
+    "ville": "El Bassatine, مكناس",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes classe A Edition one 🥇AMG line plus",
+    "prix": "405 000 DH",
+    "ville": "Bele Vue, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes C220 à Casablanca",
+    "prix": "340 000 DH",
+    "ville": "Bournazil, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volvo XC90 Essence",
+    "prix": "58 000 DH",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2011",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Golf 4 diwana",
+    "prix": "NULL",
+    "ville": "Autre secteur, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2000",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Logan Diesel Manuelle 2018 à Marrakech",
+    "prix": "NULL",
+    "ville": "Massira 1, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi Q5 S Line 2018 sale el jadida",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Passat cc 2012",
+    "prix": "148 000 DH",
+    "ville": "El Bassatine, Meknès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "DS7 CROSSBACK  2019  à Sale el jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Picanto Essence Manuelle 2021 à Casablanca",
+    "prix": "NULL",
+    "ville": "Aïn Borja, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Audi Q5  diesel  Automatique  2012 à Agadir",
+    "prix": "NULL",
+    "ville": "Hay Zaytoun, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Clio Diesel Manuelle 2019 à Fès",
+    "prix": "118 000 DH",
+    "ville": "Narjis, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "HYUNDAI SANTAFE AUTOMATIQUE 2021, 7 PLACES",
+    "prix": "NULL",
+    "ville": "Massira 1, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "audi a5",
+    "prix": "380 000 DH",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz Classe GLE Hybride Automatique 2022",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "Volkswagen Touareg 2019 sala al jadida",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "voiture pour les familles à martil",
+    "prix": "250 DH",
+    "ville": "Toute la ville, Martil",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Porsche Cayenne Diesel Automatique 2013 déd 2017",
+    "prix": "NULL",
+    "ville": "Route d'Immouzere, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "LOCATION DE VOITURE TOUT MAROC",
+    "prix": "249 DH",
+    "ville": "Ahlane, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "A ne pas rater très faible kilométrage",
+    "prix": "125 000 DH",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "1ÈRE MAIN LANCIA THEMA DIESEL EXECUTIVE",
+    "prix": "185 000 DH",
+    "ville": "Californie, Tanger",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture Hybrid Tucson A marrakech",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "range rover",
+    "prix": "NULL",
+    "ville": "Guich Oudaya, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2009",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai pour location de voiture bon prix",
+    "prix": "450 DH",
+    "ville": "Toute la ville, Fnideq",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Superbe voiture Audi A5 a partir de 499dh",
+    "prix": "499 DH",
+    "ville": "Autre secteur, Safi",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Megane sedan Automatique  2022 à Rabat",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai Tucson 2021 automatique sala al jadida",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "DS7 Crossback 2.0 Rivoli",
+    "prix": "315 000 DH",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 206 plus HD toutes options",
+    "prix": "68 000 DH",
+    "ville": "Abattoirs, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Tiguan Manuelle 2019",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia dokker ClimVAN",
+    "prix": "NULL",
+    "ville": "Centre Ville, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes ClasseE 220d   2018",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Range RoverEvoque Diesel 2021 à Rabat",
+    "prix": "NULL",
+    "ville": "Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Golf 7 2018 sale el jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture aéroport Rabat Salé",
+    "prix": "249 DH",
+    "ville": "Toute la ville, Salé",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Location de voiture. T-roc",
+    "prix": "199 DH",
+    "ville": "Toute la ville, Martil",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Volkswagen Arteon Diesel Automatique 2018 à Rabat",
+    "prix": "NULL",
+    "ville": "Hay Riad, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen tiguan",
+    "prix": "315 000 DH",
+    "ville": "Lissasfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Megane Premiere main",
+    "prix": "159 000 DH",
+    "ville": "Harhoura, Temara",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Troc a louer a l’aéroport Mohammed 5",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Superbe Voiture Audi A5 pour location",
+    "prix": "499 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Audi A6 Diesel Automatique 2018 à Rabat",
+    "prix": "265 000 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Ford Focus  Automatique  2021  sale el jadida",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de hyuandai sonata",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Audi A3 2021 S Line à sale el jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 208 Diesel Manuelle 2015 à Safi",
+    "prix": "100 000 DH",
+    "ville": "Autre secteur, Safi",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Passat B8",
+    "prix": "NULL",
+    "ville": "Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Toyota C-HR HybridsS 2020 SALE AL JADIDA",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "BMW Série 5 Diesel Automatique 2023 à Casablanca",
+    "prix": "450 000 DH",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Clio Diesel Manuelle 2021 à Marrakech",
+    "prix": "NULL",
+    "ville": "Hay Al Bahja, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault Megane Diesel  2020 à Rabat",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 3amra 3008",
+    "prix": "NULL",
+    "ville": "Route d'Aeroport, Fès",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Porsche Cayenne E-Hybrid rechargeable",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "bmw x3",
+    "prix": "335 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture hyundai accent à tétouan",
+    "prix": "199 DH",
+    "ville": "Centre ville, Tétouan",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "ds ds7",
+    "prix": "275 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "land-rover discovery",
+    "prix": "235 000 DH",
+    "ville": "Abdelmoumen, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Caddy 2021 BVM  sale el jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi A3 S Line 2017 Importé neuve  à rabat",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2017",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Range Rover Evoque R dynamic à Sale el jadida",
+    "prix": "NULL",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Audi Q8 SLine 2023 Importé neuve à Sale el jadida",
+    "prix": "NULL",
+    "ville": "Sala El Jadida, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "nissan micra",
+    "prix": "125 000 DH",
+    "ville": "Mers Sultan, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen tiguan",
+    "prix": "260 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Bmw x5 très bon etat",
+    "prix": "235 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Sublime Voiture grise pour location",
+    "prix": "450 DH",
+    "ville": "Autre secteur, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "audi a4",
+    "prix": "280 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen touareg v6",
+    "prix": "NULL",
+    "ville": "Guich Oudaya, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2012",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "location de voiture Dacia Sandero diesel manuelle",
+    "prix": "167 DH",
+    "ville": "La Colline, Mohammedia",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Ford kuga diesel",
+    "prix": "NULL",
+    "ville": "Guich Oudaya, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "location voiture de prestige",
+    "prix": "900 DH",
+    "ville": "Amerchich, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "hyunday santafe",
+    "prix": "NULL",
+    "ville": "Guich Oudaya, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2013",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volkswagen golf 7",
+    "prix": "165 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Hyundai i30",
+    "prix": "NULL",
+    "ville": "Guich Oudaya, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "accent plus automatique 6cv particulier new modèle",
+    "prix": "149 000 DH",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW X2 Diesel Pack M Sportif",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Volkswagen Touareg V6 Diesel 3.0 TDI",
+    "prix": "400 000 DH",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Arkana hybride essence électrique 4000km neuf",
+    "prix": "245 000 DH",
+    "ville": "Aïn Diab, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Hybride"
+  },
+  {
+    "titre": "Renault Kadjar 2021 toutes options",
+    "prix": "225 000 DH",
+    "ville": "Abattoirs, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Logan Ess 6cv vignette 350dh 2023 km 40000km",
+    "prix": "112 000 DH",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Jeep Grand Cherokee Overland Diesel",
+    "prix": "145 000 DH",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Toyota  RAV 4 Diesel  2015 à Agadir",
+    "prix": "NULL",
+    "ville": "Hay Zaytoun, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Megane 4 intense automatique 58000km neuf",
+    "prix": "215 000 DH",
+    "ville": "Bourgogne, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "volvo s90",
+    "prix": "435 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "toyota corolla",
+    "prix": "120 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2014",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location voitures à Marrakech aéroport",
+    "prix": "230 DH",
+    "ville": "Av Mohammed VI, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Fiat 500 Essence Automatique 2021 à Rabat",
+    "prix": "126 000 DH",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Peugeot 208 GTI essence sport",
+    "prix": "95 000 DH",
+    "ville": "Sidi Maarouf, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Nissan Qashqai acenta plus manuel",
+    "prix": "NULL",
+    "ville": "Amicales, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Kia Picanto Diesel Manuelle 2022 à Marrakech",
+    "prix": "NULL",
+    "ville": "Massira 1, Marrakech",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Location de voiture Hyundai grand i10 automatique",
+    "prix": "180 DH",
+    "ville": "La Colline, Mohammedia",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "land-rover range rover evoque",
+    "prix": "420 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 301",
+    "prix": "127 000 DH",
+    "ville": "Bab Sebta, Salé",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture Ford Fiesta à louer pour 149 dirhams",
+    "prix": "149 DH",
+    "ville": "Assif, Marrakech",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "volkswagen tiguan",
+    "prix": "280 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2018",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture Dacia dokker diesel",
+    "prix": "166 DH",
+    "ville": "Mohammedia",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Citroen C3 Diesel Manuelle 2019 à Rabat",
+    "prix": "123 000 DH",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Peugeot 308 GT",
+    "prix": "NULL",
+    "ville": "Autre secteur, Oujda",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2024",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Voiture disponible à la location au prix de 300 dh",
+    "prix": "298 DH",
+    "ville": "Administratif, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 208 Diesel Manuelle 2020 à Rabat",
+    "prix": "150 000 DH",
+    "ville": "Autre secteur, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Fiat 500 Essence Automatique 2016 à Agadir",
+    "prix": "NULL",
+    "ville": "Cité Adrar, Agadir",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Essence"
+  },
+  {
+    "titre": "Citroen Berlingo Diesel Manuelle 2019 à Rabat",
+    "prix": "154 000 DH",
+    "ville": "Hay el Fath, Rabat",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2019",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Duster à Casablanca",
+    "prix": "175 000 DH",
+    "ville": "Ben M'sick, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "mercedes-benz classe gle",
+    "prix": "590 000 DH",
+    "ville": "Autre secteur, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia Duster Diesel Automatique 2021 à Casablanca",
+    "prix": "193 000 DH",
+    "ville": "Ain Sebaa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "BMW X1 Diesel 2L (sDrive)Turbocompressé",
+    "prix": "215 000 DH",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2016",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "LOCATION DE VOITURE DACIA LOGAN AUTOMATIQUE 2023",
+    "prix": "150 DH",
+    "ville": "Belvédère, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "Peugeot 208 à Casablanca",
+    "prix": "148 000 DH",
+    "ville": "Sidi Moumen, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "jeep renegade",
+    "prix": "240 000 DH",
+    "ville": "Oulfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2023",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Renault megane",
+    "prix": "187 000 DH",
+    "ville": "Ben M'sick, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2021",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Dacia dokker à Casablanca",
+    "prix": "128 000 DH",
+    "ville": "Ben M'sick, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Manuelle",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Mercedes-Benz CLA Pack AMG Line",
+    "prix": "NULL",
+    "ville": "Anfa, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2022",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "audi a6",
+    "prix": "240 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2015",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Location de voiture",
+    "prix": "NULL",
+    "ville": "2 Mars, Casablanca",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  },
+  {
+    "titre": "volkswagen touareg",
+    "prix": "275 000 DH",
+    "ville": "Aïn Chock, Casablanca",
+    "annee": "Voitures d'occasion, à vendre",
+    "carburant": "2020",
+    "boite": "Automatique",
+    "marque": "Diesel"
+  },
+  {
+    "titre": "Super voiture à tanger",
+    "prix": "350 DH",
+    "ville": "Du Golf, Tanger",
+    "annee": "Voitures de location, à louer",
+    "carburant": "NULL",
+    "boite": "NULL",
+    "marque": "NULL"
+  }
+]
