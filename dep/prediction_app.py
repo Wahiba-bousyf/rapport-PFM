@@ -1,8 +1,9 @@
 import streamlit as st
 import requests
 import joblib
+from fastapi import FastAPI
 
-# Page config
+
 st.set_page_config(page_title="Car Price Predictor", page_icon="🚗", layout="centered")
 
 # Title
@@ -16,9 +17,9 @@ model_classes = list(params_encoder['mappings'].get('model', {}).keys())
 origin_classes = list(params_encoder['mappings'].get('origin', {}).keys())
 
 region_list = ['Béni Mellal-Khénifra', 'Casablanca-Settat', 'Dakhla-Oued Ed-Dahab',
-               'Drâa-Tafilalet', 'Fès-Meknès', 'Guelmim-Oued Noun', "L'Oriental",
-               'Laâyoune-Sakia El Hamra', 'Marrakech-Safi', 'Rabat-Salé-Kénitra',
-               'Souss-Massa', 'Tanger-Tétouan-Al Hoceima']
+            'Drâa-Tafilalet', 'Fès-Meknès', 'Guelmim-Oued Noun', "L'Oriental",
+            'Laâyoune-Sakia El Hamra', 'Marrakech-Safi', 'Rabat-Salé-Kénitra',
+            'Souss-Massa', 'Tanger-Tétouan-Al Hoceima']
 
 # Input form
 st.subheader("📋 Car Details")

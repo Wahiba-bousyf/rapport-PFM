@@ -4,10 +4,10 @@ import numpy as np
 import json
 
 # Load model and preprocessing tools
-model = joblib.load("models/catboost_model.pkl")
+# model = joblib.load("models/cat2.pkl") 
 # model = joblib.load("models/modele_cat.pkl")
 # model = joblib.load("models/lgbm_model.pkl")
-
+model = joblib.load("models/hist_model2.pkl")
 
 scaler = joblib.load("scaler/scaler.pkl")
 
