@@ -11,10 +11,10 @@ model = joblib.load("models/hist_model2.pkl")
 
 scaler = joblib.load("scaler/scaler.pkl")
 
-fuel_encoder = joblib.load("encoders/label_encoder_fuel_type.joblib")
-region_encoder = joblib.load("encoders/label_encoder_region.joblib")
+fuel_encoder = joblib.load("encodage_apres_equilibre\label_encoder_final_fuel_type.joblib")
+region_encoder = joblib.load("encodage_apres_equilibre\label_encoder_final_region.joblib")
 gearbox_encoder = joblib.load("encoders/label_encoder_gearbox.joblib")
-
+condition_mapping=joblib.load('encodage_apres_equilibre\condition_mapping.joblib')
 params_encoder = joblib.load("encoders/target_encoding_params.joblib")
 
 app = FastAPI()
@@ -31,11 +31,11 @@ async def predict(request: Request):
         # Extract and encode features
         mileage = float(data["mileage"])
         fiscal_power = float(data["fiscal_power"])
-        condition = float(data["condition"])
         year = float(data["year"])
 
         # Encode categorical variables
         gearbox = gearbox_encoder.transform([data["gearbox"]])[0]
+        condition = int(data["condition"]) 
         fuel_type = fuel_encoder.transform([data["fuel_type"]])[0]
         region = region_encoder.transform([data["region"]])[0]
 
